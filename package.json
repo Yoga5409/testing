@@ -1,0 +1,8 @@
+{
+  "name": "torn-travel-tracker",
+  "version": "1.0.0",
+  "description": "Torn City Travel Tracker Server",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
